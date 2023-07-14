@@ -1,11 +1,11 @@
-About hdxms-datasets
-====================
+About hdxms-datasets-feedstock
+==============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/hdxms-datasets-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/Jhsmit/hdxms-datasets/
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/hdxms-datasets-feedstock/blob/main/LICENSE.txt)
 
 Summary: Download and parse curated HDX-MS datasets
 
