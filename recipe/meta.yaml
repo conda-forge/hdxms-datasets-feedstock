@@ -1,5 +1,5 @@
 {% set name = "hdxms-datasets" %}
-{% set version = "0.1.2" %}
+{% set version = "0.1.3" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/hdxms_datasets-{{ version }}.tar.gz
-  sha256: 894ede87ba1bfda92a69024678bf85dd5e13d810fa76b1468647d83829753c48
+  sha256: 46612a26f7ce3e13132ccd57089a4fc08dbb116669502e3db8080cd1df3c4638
 
 build:
   noarch: python
