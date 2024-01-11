@@ -37,7 +37,7 @@ test:
 
 about:
   summary: Download and parse curated HDX-MS datasets
-  dev_url: https://github.com/Jhsmit/hdxms-datasets/
+  home: https://github.com/Jhsmit/hdxms-datasets/
   license: MIT
   license_file: LICENSE
 
